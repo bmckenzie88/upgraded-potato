@@ -25,6 +25,9 @@ Once the application is finished running, a readme file will be generated and ti
 You can view a walkthrough video demonstrating the functionality of the application [here](https://drive.google.com/file/d/1KXKu10TAkdJe_mOoqM-OyR22KztyDcaR/view).
 
 
+The repo for this application can be found [here](https://github.com/bmckenzie88/upgraded-potato).
+
+
 ## Credits
 
 N/A
